@@ -1,39 +1,59 @@
 body {
-  margin: 0;
   padding: 0;
 }
+.logo {
+  width: 10rem;
+}
 .simply {
-  background-color: rgb(245, 244, 180);
+  background-color: rgb(252, 251, 225);
+  padding: 15px;
+  border-top: solid 1px;
+  border-top-color: rgb(243, 208, 7);
 }
 h1 {
   text-align: center;
+  padding-top: 20px;
+}
+header {
+  text-align: center;
+}
+main img {
+  width: 100%;
 }
 main,
 footer {
   width: 700px;
   margin: auto;
 }
-header {
-  text-align: center;
-}
+
 img {
   border-radius: 10px;
 }
 .FEATURED {
-  border-left: solid;
+  border-left: solid 1px;
   padding-left: 15px;
-  border-left-color: rgb(245, 244, 180);
+  border-left-color: rgb(243, 208, 7);
 }
+h3 {
+  border-bottom: solid 1px;
+  border-bottom-color: rgb(195, 241, 243);
+  padding-bottom: 20px;
+}
+
 span {
-  color: orangered;
+  color: rgb(247, 108, 58);
 }
 .label {
   text-align: center;
   color: grey;
+  padding: 20px;
 }
 li {
   padding: 0.5rem;
 }
 .method-p {
   padding-left: 75px;
+}
+footer {
+  padding-left: 10px;
 }
