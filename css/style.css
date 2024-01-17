@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.simply {
+  background-color: rgb(245, 244, 180);
+}
+h1 {
+  text-align: center;
+}
+main,
+footer {
+  width: 700px;
+  margin: auto;
+}
+header {
+  text-align: center;
+}
+img {
+  border-radius: 10px;
+}
+.FEATURED {
+  border-left: solid;
+  padding-left: 15px;
+  border-left-color: rgb(245, 244, 180);
+}
+span {
+  color: orangered;
+}
+.label {
+  text-align: center;
+  color: grey;
+}
+li {
+  padding: 0.5rem;
+}
+.method-p {
+  padding-left: 75px;
+}
